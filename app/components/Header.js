@@ -22,7 +22,7 @@ export function Header() {
             <CommandEmpty>No results found.</CommandEmpty>
             <CommandGroup heading="Suggestions">
               <CommandItem>
-                <span>Calendar</span>
+                <span>NO NONONON</span>
               </CommandItem>
               <CommandItem>
                 <span>Search Emoji</span>
